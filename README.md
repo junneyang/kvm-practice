@@ -20,6 +20,9 @@ kvm虚拟化实践，主要内容包括：
 * nat方式含义
 * 配置iptables端口转发，使用使用远程连接访问虚拟机
 
-### 3、bridge方式创建linux虚拟机-使用ssh访问虚拟机
+### 3、bridge方式创建linux虚拟机
+* 使用ssh访问虚拟机
 
-### 4、nat方式创建linux虚拟机-配置iptables端口转发，使用使用远程连接访问虚拟机
+### 4、nat方式创建linux虚拟机
+* 配置iptables端口转发，使用使用远程连接访问虚拟机
+
