@@ -6,8 +6,8 @@ centos虚拟机：10.81.5.237 ssh root@10.81.5.237
 centos-02虚拟机：10.81.5.237 ssh root@10.81.5.232 -p 8890
 
 1、服务器：
-ssh root@db-sim-xwin01.db01.baidu.com
-isys.INIT@2014
+ssh root@XXX
+XXX
 cd /home/users/yangjun03
 
 2、IP信息
